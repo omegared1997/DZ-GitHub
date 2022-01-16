@@ -1,1 +1,1 @@
-my name is Ivan, I'm 24 years old, one cat named lysik lives at home, I'm studying to be a "software tester" and I like to stream on the "twitch" platform. The desired salary upon graduation will be $1,000.
+{ "name":"Ivan", "age":24, "cat":{"name":"Rysik"} "salary":{"amount":"1000","currency":"$" } }
